@@ -338,7 +338,7 @@ ssh root@<ip_du_serveur>
 ---
 
 > [!WARNING]
-> **Prends un instantané de la VM après avoir validé le SSH, afin de pouvoir y revenir avant d’installer le service FOG !**
+> **Prends un instantané de la VM après avoir validé le SSH, afin de pouvoir y revenir en cas de problèmes !**
 
 ---
 
