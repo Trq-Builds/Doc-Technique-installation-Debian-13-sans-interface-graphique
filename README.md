@@ -241,7 +241,7 @@ ID : btssio  | MDP : btssio
 
 ---
 > [!WARNING]
-> **Prends un snapshot de ta VM à ce stade (avant de configurer SSH). Cela te permettra de revenir rapidement en arrière en cas de problème !
+> **Prends un snapshot de ta VM à ce stade (avant de configurer SSH). Cela te permettra de revenir rapidement en arrière en cas de problème !**
 
 ---
 
