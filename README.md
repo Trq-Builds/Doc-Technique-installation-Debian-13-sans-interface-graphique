@@ -28,8 +28,8 @@
 <a id="contexte-et-objectifs"></a>
 ### `❔`︲Contexte et objectifs du TP.
 > [!NOTE]
-> Tu vas apprendre à installer et configurer un serveur FOG, à capturer et déployer des images système sur un parc de machines, à gérer les configurations réseau (DHCP, etc...), et à automatiser le déploiement d’environnements Windows ou Linux dans un contexte professionnel.
-> L’objectif est de te permettre de maîtriser les bases de la gestion de parc informatique et de la clonage d’images via FOG, un outil libre et puissant, afin de déployer rapidement et efficacement des postes de travail dans un environnement de type SISR.
+> Tu apprendras à installer et configurer un système Debian 13 sans interface graphique au sein d’un environnement virtualisé VMware. Cette installation te permettra de comprendre les bases d’un système Linux minimal, la gestion des paquets, des services et des ressources d’une machine virtuelle.
+> L’objectif est de maîtriser l’installation et l’administration d’un serveur Debian en ligne de commande, dans un contexte professionnel, afin de disposer d’un système stable, léger et adapté à des usages serveur ou d’infrastructure en environnement virtualisé.
 
 ---
 
@@ -39,17 +39,9 @@
 > **Présentation des outils et prérequis :**
 > - ` 🐧 `︲**Serveur :** Debian 13 **sans interface graphique** ︲[`🌐`](https://www.debian.org/)
 > 
-> - ` 🟦 `︲**Client :** Windows 11. ︲[`🌐`](https://www.microsoft.com/fr-fr/software-download/windows11)
-> 
-> - ` 🧰 `︲**Outils :** FOG (Free Open-Source Ghost) `V.1.5.10.1721` ︲[`🌐`](https://fogproject.org/)
-> 
 > - ` 📦 `︲**VMWare :** ︲[`🌐`](https://www.vmware.com/)
 > 
 > - ` ⚡ `︲**PuTTY :** ︲[`🌐`](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-> 
-> - ` 👤 `︲**Interface Chaise-Clavier fonctionnelle.** 🫵
-> 
-> - ` ☕ `︲**Un peu de patience !**
 
 ---
 
