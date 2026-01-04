@@ -2,7 +2,7 @@
 
 1. [`📘`︲Introduction.](#introduction)
 
-   * [`❔`︲Contexte et objectifs du TP.](#contexte-et-objectifs)
+   * [`❔`︲Contexte et objectifs.](#contexte-et-objectifs)
    * [`🧰`︲Présentation des outils et prérequis.](#presentation-outils-prerequis)
 
    ---
@@ -26,7 +26,7 @@
 ---
 
 <a id="contexte-et-objectifs"></a>
-### `❔`︲Contexte et objectifs du TP.
+### `❔`︲Contexte et objectifs.
 > [!NOTE]
 > Tu apprendras à installer et configurer un système Debian 13 sans interface graphique au sein d’un environnement virtualisé VMware. Cette installation te permettra de comprendre les bases d’un système Linux minimal, la gestion des paquets, des services et des ressources d’une machine virtuelle.
 > L’objectif est de maîtriser l’installation et l’administration d’un serveur Debian en ligne de commande, dans un contexte professionnel, afin de disposer d’un système stable, léger et adapté à des usages serveur ou d’infrastructure en environnement virtualisé.
