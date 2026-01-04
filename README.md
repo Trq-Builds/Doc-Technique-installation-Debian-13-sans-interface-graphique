@@ -26,7 +26,6 @@ Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le syst�
    ---
    
 3. [`🧰`︲Outils et ressources utilisées.](#outils-ressources)
-4. [`📚`︲Technique et méthode.](#technique-methode)
 
 ---
 
