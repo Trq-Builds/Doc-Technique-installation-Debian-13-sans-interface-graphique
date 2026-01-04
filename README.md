@@ -341,3 +341,47 @@ ssh root@<ip_du_serveur>
 > **Prends un instantané de la VM après avoir validé le SSH, afin de pouvoir y revenir avant d’installer le service FOG !**
 
 ---
+
+<a id="outils-ressources"></a>
+# ` 🧰 `︲Outils et ressources utilisées.
+
+---
+
+> [!TIP]
+> Vous trouverez ici la liste de tous les outils, ressources et services utilisés pour la création de cette documentation.
+> Les liens correspondants sont accessibles en cliquant sur l’emoji  : `  🌐  ` .
+
+---
+
+* `🗃️ ︲ 🌐` **︲Documents/Liens d’annexes fournis dans le TP :**
+  * ` 📂 ` ︲`1.2 - Installer et configurer un service de déploiement FOG - TP`.`pdf`
+  
+  * ` 🌐 ` ︲`Idum.fr`︲[`🌐`](https://idum.fr/spip.php?article301)
+  
+  * ` 🌐 ` ︲`Installation de FOG 1.4.4 sur Debian 9`︲[`🌐`](https://idum.fr/spip.php?article301](https://memo-linux.com/installation-de-fog-1-4-4-sur-debian-9/))
+  
+  * ` 🌐 ` ︲`www.ceos3c.com`︲[`🌐`](https://www.ceos3c.com/linux/)
+  
+--- 
+
+* ` 🤖 ` **︲GPT `5.1`** ︲  [`🌐`](https://chatgpt.com/)
+  
+* ` ❓ ` **︲Markdownguide.org**   ︲[`🌐`](https://www.markdownguide.org/)
+  
+* ` 🤖 ` **︲NoteBookLM**   ︲[`🌐`](https://notebooklm.google.com/)
+  
+* ` ✂️ ` **︲Screenpresso**   ︲[`🌐`](https://www.screenpresso.com/fr/)
+  
+* ` 😀 ` **︲Smiley.cool**   ︲[`🌐`](https://smiley.cool/emoji-list.php)
+  
+* ` ❓ ` **︲Syntaxe de base pour l’écriture et la mise en forme**  ︲ [`🌐`](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+--- 
+
+> * ` ⏺️ `︲Nagi Player︲ [`🌐`](https://github.com/Anthonyy232/Nagi)
+> 
+> * ` 🎶 `︲BEOMGYU - Panic  ︲ [`🌐`](https://youtu.be/9hTpDHJmjC0?si=1maidhWLmi5YCvQm)
+> 
+> * ` ☕ `︲De la patience !
+
+---
