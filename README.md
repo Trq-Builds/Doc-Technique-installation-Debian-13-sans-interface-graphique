@@ -88,7 +88,7 @@
 
 ---
 
-` 🚧 `︲**Couples d’identifiants (__NON NÉGOCIABLE__).**
+` 🚧 `︲**Couples d’identifiants (Exemple en Labo).**
 
 ```
 ID : root    | MDP : btssio
@@ -232,7 +232,7 @@ ID : btssio  | MDP : btssio
 
 ---
 > [!WARNING]
-> **Prends un snapshot de ta VM à ce stade (avant de configurer SSH). Cela te permettra de revenir rapidement en arrière en cas de problème avec la configuration réseau ou si FOG rencontre une erreur par la suite**
+> **Prends un snapshot de ta VM à ce stade (avant de configurer SSH). Cela te permettra de revenir rapidement en arrière en cas de problème !
 
 ---
 
@@ -243,7 +243,6 @@ ID : btssio  | MDP : btssio
 
 > [!NOTE]
 > Cette section configure les **utilisateurs**, le **SSH** et la **sécurisation basique du serveur**.
-> Indispensable avant de passer à l’installation de FOG !
 
 ---
 
