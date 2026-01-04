@@ -1,3 +1,13 @@
+# `🐧`︲Documentation  : Installer et configurer Debian-13-sans-interface-graphique.
+
+---
+
+Ce dépôt présente un guide complet pour l’installation et la configuration d’un système Debian 13 sans interface graphique dans un environnement virtualisé VMware. Il couvre les différentes étapes du déploiement, de l’installation de la machine virtuelle à la configuration de base du système.
+
+Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le système via la ligne de commande et à préparer un environnement stable et optimisé pour des usages serveur ou d’infrastructure en contexte professionnel.
+
+---
+
 ## `📑`︲Sommaire (cliquez pour accéder directement à la section souhaitée)
 
 1. [`📘`︲Introduction.](#introduction)
