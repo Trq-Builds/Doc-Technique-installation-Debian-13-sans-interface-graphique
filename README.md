@@ -353,7 +353,7 @@ ssh root@<ip_du_serveur>
 
 --- 
 
-* ` 🤖 ` **︲GPT `Mini`** ︲  [`🌐`](https://chatgpt.com/)
+* ` 🤖 ` **︲GPT-`5.1-Mini`** ︲  [`🌐`](https://chatgpt.com/)
   
 * ` ❓ ` **︲Markdownguide.org**   ︲[`🌐`](https://www.markdownguide.org/)
   
