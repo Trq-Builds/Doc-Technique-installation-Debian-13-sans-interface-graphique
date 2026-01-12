@@ -74,7 +74,7 @@ Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le syst�
 
 ` ⚙️ `︲**Configuration de la VM.**
 
-* ` ❓ ` ︲**Hostname :** `srv-fog`.
+* ` ❓ ` ︲**Hostname :** `Debian-13`.
 
 * ` 📡 ` ︲**Adressage IP :** dynamique (`DHCP`) récupérer une adresse sur le réseau local physique.
 
