@@ -350,12 +350,10 @@ ssh root@<ip_du_serveur>
 
 --- 
 
-* ` 🤖 ` **︲GPT-`5.1-Mini`** ︲  [`🌐`](https://chatgpt.com/)
+* ` 🤖 ` **︲`GPT-5.1-Mini`** ︲  [`🌐`](https://chatgpt.com/)
   
 * ` ❓ ` **︲Markdownguide.org**   ︲[`🌐`](https://www.markdownguide.org/)
-  
-* ` 🤖 ` **︲NoteBookLM**   ︲[`🌐`](https://notebooklm.google.com/)
-  
+    
 * ` ✂️ ` **︲Screenpresso**   ︲[`🌐`](https://www.screenpresso.com/fr/)
   
 * ` 😀 ` **︲Smiley.cool**   ︲[`🌐`](https://smiley.cool/emoji-list.php)
