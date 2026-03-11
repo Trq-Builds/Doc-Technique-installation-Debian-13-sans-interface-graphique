@@ -138,7 +138,7 @@ ID : btssio  | MDP : btssio
 
 2️⃣︲**Configuration réseau.**
 
-* Nom de la machine : `srv-fog`
+* Nom de la machine : `Deb13`
 * Méthode d’adressage : **DHCP (automatique)**
 * Domaine : *(laisser vide ou local)*
 
