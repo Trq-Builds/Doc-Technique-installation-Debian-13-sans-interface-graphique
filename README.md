@@ -46,7 +46,7 @@ Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le syst�
 ### ` 🧰 `︲Présentation des outils et prérequis.
 > [!IMPORTANT]
 > **Présentation des outils et prérequis :**
-> - ` 🐧 `︲**O.S :** Debian 13︲[`🌐`](https://www.debian.org/)
+> - ` 🐧 `︲**O.S :** **Debian 13**︲[`🌐`](https://www.debian.org/)
 > 
 > - ` 📦 `︲**VMWare :** ︲[`🌐`](https://www.vmware.com/)
 > 
