@@ -47,9 +47,7 @@ Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le syst�
 > [!IMPORTANT]
 > **Présentation des outils et prérequis :**
 > - ` 🐧 `︲**O.S :** **Debian 13**︲[`🌐`](https://www.debian.org/)
-> 
 > - ` 📦 `︲**VMWare :** ︲[`🌐`](https://www.vmware.com/)
-> 
 > - ` ⚡ `︲**PuTTY :** ︲[`🌐`](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ---
