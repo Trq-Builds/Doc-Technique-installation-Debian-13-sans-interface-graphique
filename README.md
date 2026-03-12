@@ -1,5 +1,10 @@
 # `🐧`︲Documentation  : Installer et configurer Debian-13-sans-interface-graphique.
 
+![Debian](https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Server-FCC624?logo=linux&logoColor=black)
+![CLI](https://img.shields.io/badge/Interface-CLI_only-blue)
+![Markdown](https://img.shields.io/badge/Written_in-Markdown-black?logo=markdown)
+
 ---
 
 Ce dépôt présente un guide complet pour l’installation et la configuration d’un système Debian 13 sans interface graphique dans un environnement virtualisé VMware. Il couvre les différentes étapes du déploiement, de l’installation de la machine virtuelle à la configuration de base du système.
