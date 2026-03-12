@@ -75,7 +75,7 @@ Tu y apprendras à mettre en place un serveur Debian minimal, à gérer le syst�
 
 ---
 
-` ⚙️ `︲**Configuration de la VM.**
+` ⚙️ `︲**Configuration de la VM – ceci est un exemple de configuration, libre à vous de l’adapter.**
 
 * ` ❓ ` ︲**Hostname :** `Debian-13`.
 
