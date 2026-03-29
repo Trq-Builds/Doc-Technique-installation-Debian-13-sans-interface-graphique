@@ -1,4 +1,4 @@
-# `🐧`︲Documentation  : Installer et configurer Debian-13-sans-interface-graphique.
+# ` 🐧 `︲Documentation  : Installer et configurer Debian-13-sans-interface-graphique.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white&style=for-the-badge">
