@@ -1,6 +1,10 @@
 # ` 🐧 `︲Documentation  : Installer et configurer Debian-13-sans-interface-graphique.
 
 <p align="center">
+<img src="https://github.com/user-attachments/assets/d23ac426-e026-4b03-af96-a3fbd8be19c2" width="100"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Linux-Server-333333?logo=linux&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/CLI-Interface-blue?style=for-the-badge">
